@@ -1,0 +1,18 @@
+GitHub Tree
+===========
+
+This chrome/chromium extension gives you a directory tree view for GitHub repositories. It helps navigate GitHub projects via the web application.
+
+Development
+-----------
+
+The main source file is written in CoffeeScript. To have `.coffee` files compiled automatically, run:
+
+----
+coffee -w -c *.coffee
+----
+
+Contributing
+------------
+
+Code for issues labelled "accepted" are likely to be merged.
